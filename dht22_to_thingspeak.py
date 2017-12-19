@@ -7,6 +7,8 @@
 #   cd Adafruit_Python_DHT
 #    sudo python3  setup.py install  # for python3
 #
+#  Install Python modules
+#    pip3 install requests 
 
 """
 dht22.py
