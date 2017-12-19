@@ -28,6 +28,7 @@ myAPI = "YOUR API KEY"
 
 def getSensorData():
    RH, T = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, 22) #22 refers to GPIO 22, or pin 15 on the RPi
+                                                           #RPi-DHT22-Connection.JPG
    return ("%.0f"%(RH), "%.02f"%(T))
 
 def main():
