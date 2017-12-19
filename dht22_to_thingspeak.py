@@ -18,7 +18,6 @@ Modified by Adam Garbo on December 1, 2016
 """
 
 import sys
-import RPi.GPIO as GPIO
 from time import sleep
 import Adafruit_DHT
 import requests
