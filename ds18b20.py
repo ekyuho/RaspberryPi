@@ -1,3 +1,6 @@
+# DS18B20 Data at GPIO04 (Physical pin 7)
+# https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/software
+# https://www.modmypi.com/blog/ds18b20-one-wire-digital-temperature-sensor-and-the-raspberry-pi 
 import os
 import glob
 import time
