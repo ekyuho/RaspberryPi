@@ -24,3 +24,5 @@ while True:
   for i in range(len(pin)-1, -1, -1):
     out(i, 0);
     time.sleep(0.1)
+
+    ## my
